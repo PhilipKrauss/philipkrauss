@@ -1,7 +1,7 @@
 
 ### Hi - I'm Philip 👋
 
-- My name is **Philip Krauß**, I am 16 years old and I come from **Germany**
+- My name is **Philip Krauß**, I am 17 years old and I come from **Germany**
 - I'm currently working on some private projects with [Java], [PHP] or [Node.js]
 - You can message me over e-mail at [pkkrauss04@gmail.com](mailto:pkkrauss04@gmail.com) or via Discord **fipsi04#4594** 
 
